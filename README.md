@@ -1,7 +1,8 @@
 # Aadi-foundation
  webpage
  
-![image](https://user-images.githubusercontent.com/82379566/213914195-c9a3c22a-a398-4b9a-a59a-86340bacd9d9.png)
+![image](https://user-images.githubusercontent.com/82379566/213914299-b8b88b67-6b38-4e2c-bee3-92a382d8f85f.png)
+
 
 
 
